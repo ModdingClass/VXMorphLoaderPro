@@ -834,7 +834,7 @@ function MorphLoaderPro(bodyFile, morphsFolder, ccPersonFile)
             --debug = true
             add(txt)
         end
-        cb_add(ch_array,nil,"Scripts/Luder/Person.G=01/AcBody740.bs")
+        cb_add(ch_array,nil,"Scripts/Luder/Person.G=01/Ac"..bodyFile)
     end
 
     if (#emotionContextMenuSnippetsTable > 0) then
