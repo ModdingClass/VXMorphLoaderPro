@@ -1,6 +1,8 @@
 # VXMorphLoaderPro
 VX Lua Extension to load body morphs directly from obj files
 
+![Logo for VXMorphLoaderPro](MLP.png)
+
 ### How To Install
 
 Because of limited API available, sandbox reasons, etc. VX Morph Loader Pro is a LUA extension, not just a simple LUA Addon. 
